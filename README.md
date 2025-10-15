@@ -33,8 +33,8 @@ Docker, Git, CI/CD, Linux, Vercel Deployment
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=galangnovi&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galangnovi&layout=compact&theme=default)
 
 ---
 
