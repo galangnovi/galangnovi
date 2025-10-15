@@ -40,7 +40,7 @@ Docker, Git, CI/CD, Linux, Vercel Deployment
 
 ## 📫 Get in Touch
 - 📧 Email: [galangnovi21@gmail.com]  
-- 💼 LinkedIn: [linkedin.com/in/username]  
+- 💼 LinkedIn: [linkedin.com/in/galang-novi-anggara/]  
 - 🌐 Portfolio: [https://galangna.up.railway.app/]  
 
 ---
