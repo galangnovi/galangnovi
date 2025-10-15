@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Galang Novi Anggara 👋
 
-<!--
-**galangnovi/galangnovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Web Developer** passionate about building reliable, scalable, and user-focused digital solutions.  
+My main expertise lies in **JavaScript, TypeScript, and Node.js**, and I enjoy bridging backend logic with seamless frontend experiences using modern frameworks and tools.
 
-Here are some ideas to get you started:
+Here, you'll find my personal projects, technical experiments, and open-source contributions — all focused on clean architecture, performance, and maintainability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Current Focus
+- Developing full-stack web applications using **Express, React, and Prisma**.  
+- Exploring **unit and integration testing** to ensure code quality.  
+- Enhancing application performance and state management using **Redux Toolkit** and **TanStack Query**.
+
+---
+
+## ⚙️ Technical Skills
+**Languages & Runtime:**  
+JavaScript (ES6+), TypeScript, Node.js  
+
+**Frontend:**  
+React, Next.js, Tailwind CSS, Shadcn/UI  
+
+**Backend:**  
+Express.js, Prisma ORM, PostgreSQL, RESTful API  
+
+**Testing & Tools:**  
+Jest, Vitest, Playwright, Thunder Client  
+
+**Others:**  
+Docker, Git, CI/CD, Linux, Vercel Deployment  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=default)
+
+---
+
+## 📫 Get in Touch
+- 📧 Email: [galangnovi21@gmail.com]  
+- 💼 LinkedIn: [linkedin.com/in/username]  
+- 🌐 Portfolio: [https://galangna.up.railway.app/]  
+
+---
+
+Thank you for visiting my profile!  
+I'm always open to collaboration, technical discussions, and exciting new opportunities. 🚀
