@@ -1,14 +1,14 @@
 # Hi, I'm Galang Novi Anggara 👋
 
 I'm a **Full-Stack Web Developer** passionate about building reliable, scalable, and user-focused digital solutions.  
-My main expertise lies in **JavaScript, TypeScript, and Node.js**, and I enjoy bridging backend logic with seamless frontend experiences using modern frameworks and tools.
+My main expertise lies in **JavaScript, PHP, TypeScript, and Node.js**, and I enjoy bridging backend logic with seamless frontend experiences using modern frameworks and tools.
 
 Here, you'll find my personal projects, technical experiments, and open-source contributions — all focused on clean architecture, performance, and maintainability.
 
 ---
 
 ## 💼 Current Focus
-- Developing full-stack web applications using **Express, React, and Prisma**.  
+- Developing full-stack web applications using **Express, React/Next, and Prisma**.  
 - Exploring **unit and integration testing** to ensure code quality.  
 - Enhancing application performance and state management using **Redux Toolkit** and **TanStack Query**.
 
@@ -16,19 +16,19 @@ Here, you'll find my personal projects, technical experiments, and open-source c
 
 ## ⚙️ Technical Skills
 **Languages & Runtime:**  
-JavaScript (ES6+), TypeScript, Node.js  
+PHP, JavaScript (ES6+), TypeScript, Node.js  
 
 **Frontend:**  
 React, Next.js, Tailwind CSS, Shadcn/UI  
 
 **Backend:**  
-Express.js, Prisma ORM, PostgreSQL, RESTful API  
+Express.js, Prisma ORM, Laravel, PostgreSQL, RESTful API  
 
 **Testing & Tools:**  
-Jest, Vitest, Playwright, Thunder Client  
+Jest, Postman, Thunder Client  
 
 **Others:**  
-Docker, Git, CI/CD, Linux, Vercel Deployment  
+Docker, Git, Vercel Deployment  
 
 ---
 
