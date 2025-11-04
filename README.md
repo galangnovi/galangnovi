@@ -1,4 +1,4 @@
-![Github Banner](img/banner.png)
+![Github Banner](img/banner1.png)
 
 # Hi, I'm Galang Novi Anggara 👋
 
