@@ -76,18 +76,13 @@ Here, you'll find my personal projects, technical experiments, and open-source c
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=galangnovi&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galangnovi&layout=compact&theme=default)
-
----
 
 ## 📫 Get in Touch
-<div align="center">
+<div align="start">
   <a href="mailto:galangnovi21@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="galangnovi21@gmail.com" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/galang-novi-anggara/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shahadat Hossain Hridoy" height="30" width="40" /></a>
   <a href="https://www.instagram.com/galang.anggara22/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="galang_novi" height="30" width="40" /></a>
-</div>dge/Jest-C21325?style=flat
+
 
 ---
 
