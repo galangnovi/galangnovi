@@ -14,9 +14,9 @@
 
 ## 💼 Current Focus
 
-🖥️ Frontend: Developing modern, responsive interfaces with React and Next.js, enhancing performance and state management using Redux Toolkit.
-⚙️ Backend: Building reliable and scalable RESTful APIs using Laravel, Express and Prisma, with a focus on clean architecture, database efficiency, and maintainability.
-🧪 Exploring unit and integration testing to ensure high code quality and application stability.
+<p>🖥️ Frontend: Developing modern, responsive interfaces with React and Next.js, enhancing performance and state management using Redux Toolkit. </p>
+<p>⚙️ Backend: Building reliable and scalable RESTful APIs using Laravel, Express and Prisma, with a focus on clean architecture, database efficiency, and maintainability.</p>
+<p>🧪 Exploring unit and integration testing to ensure high code quality and application stability.</p>
 ---
 
 ## ⚙️ Technical Skills
@@ -53,9 +53,9 @@
 
 | Project | Description | Stack | Live / Repo | Status |
 | --- | --- | --- | --- | --- |
-| **Personal Web** | Personal Web is a web application designed to showcase your portfolio and career history in a professional way. With its user-friendly interface and simple editor, you can easily manage your content and build a strong digital presence. | HTML5 · CSS · Handlebars · Bootstrap| [`Live`](https://galangna.up.railway.app/home) | ![Complete](https://img.shields.io/badge/Status-Active-success?style=flat) |
-| **Circle** | A chat-based counseling platform that intelligently detects emergency messages such as signs of suicidal intent sending instant alerts to emergency response communities while providing insightful annual statistics on critical message trends. | React.js · Express.js · Prisma · Jest | [`Live`](https://mycircle-media.vercel.app/login) | ![Complete](https://img.shields.io/badge/Status-Active-success?style=flat) |
-| **SpeakLIFE** | A chat-based counseling platform that intelligently detects emergency messages—such as signs of suicidal intent—sending instant alerts to emergency response communities while providing insightful annual statistics on critical message trends. | Next.js · Gemini ai · N8N |  [`Code`](https://github.com/galangnovi/SpeakLIFE) | ![Complete](https://img.shields.io/badge/Status-Active-success?style=flat) |
+| **Personal Web** | Personal Web is a web application designed to showcase your portfolio and career history in a professional way. With its user-friendly interface and simple editor, you can easily manage your content and build a strong digital presence. | HTML5 · CSS · Handlebars · Bootstrap| [`Live`](https://galangna.up.railway.app/home) | ![Status](https://img.shields.io/badge/Status-Complete-success) |
+| **Circle** | A chat-based counseling platform that intelligently detects emergency messages such as signs of suicidal intent sending instant alerts to emergency response communities while providing insightful annual statistics on critical message trends. | React.js · Express.js · Prisma · Jest | [`Live`](https://mycircle-media.vercel.app/login) | ![Status](https://img.shields.io/badge/Status-Complete-success) |
+| **SpeakLIFE** | A chat-based counseling platform that intelligently detects emergency messages—such as signs of suicidal intent—sending instant alerts to emergency response communities while providing insightful annual statistics on critical message trends. | Next.js · Gemini ai · N8N |  [`Code`](https://github.com/galangnovi/SpeakLIFE) | ![Status](https://img.shields.io/badge/Status-Complete-success) |
 
 > More projects → [github.com/galangnovi?tab=repositories](https://github.com/galangnovi?tab=repositories)
 
