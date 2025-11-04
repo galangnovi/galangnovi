@@ -85,6 +85,8 @@ Here, you'll find my personal projects, technical experiments, and open-source c
 
 
 ---
+<div align="center">
+<p>Thank you for visiting my profile!</p> 
+<p>I'm always open to collaboration, technical discussions, and exciting new opportunities. 🚀</p>
 
-Thank you for visiting my profile!  
-I'm always open to collaboration, technical discussions, and exciting new opportunities. 🚀
+---
