@@ -75,7 +75,7 @@ Here, you'll find my personal projects, technical experiments, and open-source c
 </details>
 
 
-
+---
 
 
 <div align="center">
@@ -84,9 +84,7 @@ Here, you'll find my personal projects, technical experiments, and open-source c
   <a href="https://www.instagram.com/galang.anggara22/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="galang_novi" height="30" width="40" /></a>
 
 
----
 <div align="center">
 <p>Thank you for visiting my profile!</p> 
 <p>I'm always open to collaboration, technical discussions, and exciting new opportunities. 🚀</p>
 
----
