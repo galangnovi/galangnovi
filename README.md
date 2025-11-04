@@ -74,12 +74,11 @@ Here, you'll find my personal projects, technical experiments, and open-source c
   </p>
 </details>
 
----
+
 
 
 
 <div align="center">
-  ## 📫 Get in Touch
   <a href="mailto:galangnovi21@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="galangnovi21@gmail.com" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/galang-novi-anggara/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shahadat Hossain Hridoy" height="30" width="40" /></a>
   <a href="https://www.instagram.com/galang.anggara22/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="galang_novi" height="30" width="40" /></a>
