@@ -1,4 +1,8 @@
+![Github Banner](img/banner.png)
+
 # Hi, I'm Galang Novi Anggara 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Fullstack+Developer;Lifelong%20Learning%20Timeless%20Contributton&center=true&width=420&height=45">
 
 I'm a **Full-Stack Web Developer** passionate about building reliable, scalable, and user-focused digital solutions.  
 My main expertise lies in **JavaScript, PHP, TypeScript, and Node.js**, and I enjoy bridging backend logic with seamless frontend experiences using modern frameworks and tools.
@@ -39,9 +43,11 @@ Docker, Git, Vercel Deployment
 ---
 
 ## 📫 Get in Touch
-- 📧 Email: [galangnovi21@gmail.com]  
-- 💼 LinkedIn: [https://www.linkedin.com/in/galang-novi-anggara/]  
-- 🌐 Portfolio: [https://galangna.up.railway.app/]  
+<div align="center">
+  <a href="mailto:galangnovi21@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="galangnovi21@gmail.com" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/galang-novi-anggara/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shahadat Hossain Hridoy" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/galang.anggara22/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="galang_novi" height="30" width="40" /></a>
+</div>
 
 ---
 
