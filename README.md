@@ -52,9 +52,9 @@ Here, you'll find my personal projects, technical experiments, and open-source c
 
 | Project | Description | Stack | Live / Repo |
 | --- | --- | --- | --- |
-| **InsightOps Dashboard** | Admin analytics dashboard with real-time updates and granular access control. | Next.js · Prisma · PostgreSQL | [`Live`](https://your-demo-link) · [`Code`](https://github.com/galangnovi/insightops-dashboard) |
-| **Commerce Flow API** | RESTful backend powering storefront + OMS integrations with full test coverage. | Node.js · Express · Jest | [`Docs`](https://your-docs-link) · [`Code`](https://github.com/galangnovi/commerce-flow) |
-| **Delightful UI Kit** | Flexible component library built on shadcn/ui and Storybook. | React · Tailwind · Storybook | [`Storybook`](https://your-storybook) · [`Code`](https://github.com/galangnovi/delightful-ui) |
+| **Personal Web** | Personal Web is a web application designed to showcase your portfolio and career history in a professional way. With its user-friendly interface and simple editor, you can easily manage your content and build a strong digital presence. | HTML5 · CSS · Handlebars · Bootstrap| [`Live`](https://galangna.up.railway.app/home) |
+| **Circle** | A chat-based counseling platform that intelligently detects emergency messages such as signs of suicidal intent sending instant alerts to emergency response communities while providing insightful annual statistics on critical message trends. | React.js · Express.js · Prisma · Jest | [`Live`](https://mycircle-media.vercel.app/login) |
+| **SpeakLIFE** | A chat-based counseling platform that intelligently detects emergency messages—such as signs of suicidal intent—sending instant alerts to emergency response communities while providing insightful annual statistics on critical message trends. | Next.js · Gemini ai · N8N |  [`Code`](https://github.com/galangnovi/SpeakLIFE) |
 
 > More projects → [github.com/galangnovi?tab=repositories](https://github.com/galangnovi?tab=repositories)
 
@@ -88,3 +88,6 @@ Here, you'll find my personal projects, technical experiments, and open-source c
 <p>Thank you for visiting my profile!</p> 
 <p>I'm always open to collaboration, technical discussions, and exciting new opportunities. 🚀</p>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=galangnovi.galangnovi&"  />
+</div>
