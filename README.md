@@ -4,18 +4,19 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Fullstack+Developer;Lifelong%20Learning%20Timeless%20Contributton&center=true&width=490&height=45">
 
-I'm a **Full-Stack Web Developer** passionate about building reliable, scalable, and user-focused digital solutions.  
-My main expertise lies in **JavaScript, PHP, TypeScript, and Node.js**, and I enjoy bridging backend logic with seamless frontend experiences using modern frameworks and tools.
+💻 I'm a Full-Stack Web Developer passionate about building reliable, scalable, and user-focused digital solutions.
+⚙️ My main expertise lies in JavaScript, PHP, TypeScript, and Node.js, and I enjoy bridging backend logic with seamless frontend experiences using modern frameworks and tools.
 
-Here, you'll find my personal projects, technical experiments, and open-source contributions — all focused on clean architecture, performance, and maintainability.
+🚀 I love building applications that are not only functional, but also easy to maintain and scalable — ensuring long-term growth and sustainability.
+📂 Here, you'll find my personal projects, technical experiments, and open-source contributions — all focused on clean architecture, performance, and maintainability.
 
 ---
 
 ## 💼 Current Focus
-- Developing full-stack web applications using **Express, React/Next, and Prisma**.  
-- Exploring **unit and integration testing** to ensure code quality.  
-- Enhancing application performance and state management using **Redux Toolkit** and **TanStack Query**.
 
+🖥️ Frontend: Developing modern, responsive interfaces with React and Next.js, enhancing performance and state management using Redux Toolkit.
+⚙️ Backend: Building reliable and scalable RESTful APIs using Laravel, Express and Prisma, with a focus on clean architecture, database efficiency, and maintainability.
+🧪 Exploring unit and integration testing to ensure high code quality and application stability.
 ---
 
 ## ⚙️ Technical Skills
@@ -50,11 +51,11 @@ Here, you'll find my personal projects, technical experiments, and open-source c
 
 ## 🏗 Featured Projects
 
-| Project | Description | Stack | Live / Repo |
-| --- | --- | --- | --- |
-| **Personal Web** | Personal Web is a web application designed to showcase your portfolio and career history in a professional way. With its user-friendly interface and simple editor, you can easily manage your content and build a strong digital presence. | HTML5 · CSS · Handlebars · Bootstrap| [`Live`](https://galangna.up.railway.app/home) |
-| **Circle** | A chat-based counseling platform that intelligently detects emergency messages such as signs of suicidal intent sending instant alerts to emergency response communities while providing insightful annual statistics on critical message trends. | React.js · Express.js · Prisma · Jest | [`Live`](https://mycircle-media.vercel.app/login) |
-| **SpeakLIFE** | A chat-based counseling platform that intelligently detects emergency messages—such as signs of suicidal intent—sending instant alerts to emergency response communities while providing insightful annual statistics on critical message trends. | Next.js · Gemini ai · N8N |  [`Code`](https://github.com/galangnovi/SpeakLIFE) |
+| Project | Description | Stack | Live / Repo | Status |
+| --- | --- | --- | --- | --- |
+| **Personal Web** | Personal Web is a web application designed to showcase your portfolio and career history in a professional way. With its user-friendly interface and simple editor, you can easily manage your content and build a strong digital presence. | HTML5 · CSS · Handlebars · Bootstrap| [`Live`](https://galangna.up.railway.app/home) | ![Complete](https://img.shields.io/badge/Status-Active-success?style=flat) |
+| **Circle** | A chat-based counseling platform that intelligently detects emergency messages such as signs of suicidal intent sending instant alerts to emergency response communities while providing insightful annual statistics on critical message trends. | React.js · Express.js · Prisma · Jest | [`Live`](https://mycircle-media.vercel.app/login) | ![Complete](https://img.shields.io/badge/Status-Active-success?style=flat) |
+| **SpeakLIFE** | A chat-based counseling platform that intelligently detects emergency messages—such as signs of suicidal intent—sending instant alerts to emergency response communities while providing insightful annual statistics on critical message trends. | Next.js · Gemini ai · N8N |  [`Code`](https://github.com/galangnovi/SpeakLIFE) | ![Complete](https://img.shields.io/badge/Status-Active-success?style=flat) |
 
 > More projects → [github.com/galangnovi?tab=repositories](https://github.com/galangnovi?tab=repositories)
 
@@ -87,6 +88,7 @@ Here, you'll find my personal projects, technical experiments, and open-source c
 <div align="center">
 <p>Thank you for visiting my profile!</p> 
 <p>I'm always open to collaboration, technical discussions, and exciting new opportunities. 🚀</p>
+<p>📫 Feel free to reach me at LinkedIn or Email.</p>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=galangnovi.galangnovi&"  />
