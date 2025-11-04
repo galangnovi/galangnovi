@@ -2,7 +2,7 @@
 
 # Hi, I'm Galang Novi Anggara 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Fullstack+Developer;Lifelong%20Learning%20Timeless%20Contributton&center=true&width=6000&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Fullstack+Developer;Lifelong%20Learning%20Timeless%20Contributton&center=true&width=600&height=45">
 
 I'm a **Full-Stack Web Developer** passionate about building reliable, scalable, and user-focused digital solutions.  
 My main expertise lies in **JavaScript, PHP, TypeScript, and Node.js**, and I enjoy bridging backend logic with seamless frontend experiences using modern frameworks and tools.
