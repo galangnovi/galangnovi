@@ -14,9 +14,14 @@
 
 ## 💼 Current Focus
 
-<p>🖥️ Frontend: Developing modern, responsive interfaces with React and Next.js, enhancing performance and state management using Redux Toolkit. </p>
-<p>⚙️ Backend: Building reliable and scalable RESTful APIs using Laravel, Express and Prisma, with a focus on clean architecture, database efficiency, and maintainability.</p>
-<p>🧪 Exploring unit and integration testing to ensure high code quality and application stability.</p>
+🖥️ Frontend → Developing modern, responsive interfaces with React and Next.js, enhancing performance and state management using Redux Toolkit.
+
+
+⚙️ Backend → Building reliable and scalable RESTful APIs using Laravel, Express, and Prisma, with a focus on clean architecture, database efficiency, and maintainability.
+
+
+🧪 Testing → Exploring unit and integration testing to ensure high code quality and application stability.
+
 ---
 
 ## ⚙️ Technical Skills
