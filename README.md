@@ -77,6 +77,14 @@ Here, you'll find my personal projects, technical experiments, and open-source c
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/galangnovi/galangnovi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/galangnovi/galangnovi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/galangnovi/galangnovi/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 
 <div align="center">
   <a href="mailto:galangnovi21@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="galangnovi21@gmail.com" height="30" width="40" /></a>
